@@ -46,7 +46,7 @@ The Power BI dashboard is structured into three main pages:
 
 ## 📁 Files Included
 
-- `BlinkIT Grocery Data.csv` – Raw dataset used
+- `sales eda exported` – Raw dataset used
 - `Project(python).pbix` – Power BI Dashboard
 - `Project(power bi,python).html` – Python cleaning steps (HTML export)
 - `README.md` – Project documentation (this file)
